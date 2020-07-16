@@ -1,0 +1,16 @@
+.north{
+    background-color: blue;
+    width: 50%;
+  }
+  .central{
+    background-color: yellow;
+    width: 50%;
+  }
+  .south{
+    background-color: orange;
+    width: 50%;
+  }
+  .center{
+    color: red;
+  }
+  

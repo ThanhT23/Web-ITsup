@@ -1,0 +1,15 @@
+.north{
+    color: blue;
+    font-size: 25px;
+  }
+  .central{
+    color: yellow;
+    font-size: 10px;
+  }
+  .south{
+    color: purple;
+  }
+  /*Tỉnh ở miền Bắc có chữ màu xanh, kích thước 25px
+  Tỉnh ở miền Nam màu vàng, kích thước 10px
+   Tỉnh ở miền Trung có màu Tím*/
+  
